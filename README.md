@@ -1,0 +1,3 @@
+# tiny
+
+tiny npm moduule
